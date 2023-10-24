@@ -2,5 +2,3 @@ localhost
 [all:vars]
 ansible_python_interpreter=/opt/app-root/bin/python
 
-automationedacontroller_controller_verify_ssl = false
-
